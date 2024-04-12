@@ -1,6 +1,3 @@
-#Student name: Aryan Patel
-#Student number: 501029026z
-#Section: 1
 #Program description:
 # Asks user to enter marks (out of 100) as integers until user enters 'done'. Program uses improved bubble
 # sort to sort/order the marks from lowest to highest, calculates the mean(average) and the median of the
